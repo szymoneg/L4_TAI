@@ -1,0 +1,24 @@
+body {
+    width: 100%;
+    font-size: 14px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.correct {
+    background-color: #289a27;
+}
+
+.incorrect {
+    background-color: #c41a21;
+}
+
+.buttons {
+    padding: 10px 10px 10px 0;
+}
